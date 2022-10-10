@@ -1,0 +1,34 @@
+[
+    {
+        "grupo":"A",
+        "equipos":["Qatar", "Ecuador", "Senegal", "Paises Bajos"]
+    },
+    {
+        "grupo":"B",
+        "equipos":["Inglaterra", "Iran", "EEUU", "Gales"]
+    },
+    {
+        "grupo":"C",
+        "equipos":["Argentina", "Arabia Saudita", "Mexico", "Polonia"]
+    },
+    {
+        "grupo":"D",
+        "equipos":["Francia", "Australia", "Dinamarca", "Túnes"]
+    },
+    {
+        "grupo":"E",
+        "equipos":["España", "Costa Rica", "Alemania", "Japon"]
+    },
+    {
+        "grupo":"F",
+        "equipos":["Belgica", "Canada", "Marruecos", "Croacia"]
+    },
+    {
+        "grupo":"G",
+        "equipos":["Brasil", "Serbia", "Suiza", "Camerún"]
+    },
+    {
+        "grupo":"H",
+        "equipos":["Portugal", "Ghana", "Uruguay", "Corea del Sur"]
+    }
+]
